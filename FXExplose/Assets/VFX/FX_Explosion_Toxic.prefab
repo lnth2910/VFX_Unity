@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8391007223806906835}
   m_Layer: 0
-  m_Name: Explose9
+  m_Name: FX_Explosion_Toxic
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -42,7 +42,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7899577800019481993}
   m_Layer: 0
-  m_Name: 1
+  m_Name: Core
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -76,7 +76,7 @@ GameObject:
   - component: {fileID: 7821402936955218541}
   - component: {fileID: 6449122861521565575}
   m_Layer: 0
-  m_Name: Particle System (2)
+  m_Name: Core_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4971,7 +4971,7 @@ GameObject:
   - component: {fileID: 6264494034294814016}
   - component: {fileID: 6763803925476868982}
   m_Layer: 0
-  m_Name: Particle System (3)
+  m_Name: Core_03
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -9859,7 +9859,7 @@ GameObject:
   - component: {fileID: 8509182698407652171}
   - component: {fileID: 6408021453899912274}
   m_Layer: 0
-  m_Name: Particle System (2)
+  m_Name: Core_02
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
